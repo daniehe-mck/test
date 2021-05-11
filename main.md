@@ -5,3 +5,5 @@ differing from develop
 differeing to feature-a
 
 merging to develop fixing error
+
+feature-b
